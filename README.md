@@ -1,2 +1,2 @@
 # 2daEntregaBackendOtero
-2da Entrega Backend Otero
+Segunda Entrega de Proyecto Final Programacion Backend Coderhouse
